@@ -11,7 +11,7 @@ A Point-of-Sale (POS) website built with CodeIgniter 4. This version extends TFA
 - **Professor:** Von Erick Magbitang
 - **GitHub:** [ladiesman416/pos-system-tfa3](https://github.com/ladiesman416/pos-system-tfa3)
 - **Previous activities:** [TFA1](https://github.com/ladiesman416/pos-system-tfa1) · [TFA2](https://github.com/ladiesman416/pos-system-tfa2)
-- **Live Demo:** ADD-YOUR-LIVE-LINK-HERE
+- **Live Demo:** http://pos-kyle.gt.tc/tfa3/
 
 ## Table of Contents
 
